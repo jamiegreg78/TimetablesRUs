@@ -1,0 +1,28 @@
+3
+B22
+true
+false
+B23
+true
+true
+Room101
+false
+false
+meeting
+1
+2020-02-27T15:10
+2020-02-27T16:00
+true
+staff 1
+cwl
+STAFF
+B22
+meeting
+2
+2020-02-28T14:10
+2020-02-28T16:00
+false
+Meeting to discuss first year languages
+afc
+OTHER
+B22
